@@ -1,0 +1,7 @@
+GitHub repo name:  maestro-exporters
+
+Short description (About):
+Maestro user scripts that export selected Project Table entries to Cresset Flare and CCG MOE (proteins vs ligands done right), and convert selected poses to clean 2D V2000 SD files.
+
+Suggested topics:
+schrodinger, maestro, cheminformatics, docking, cresset-flare, moe, rdkit, sdf, pyqt, drug-discovery, structure-based-design
