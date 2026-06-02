@@ -3,6 +3,9 @@
 """
 Mae2Flare.py  -  Maestro user script
 
+Author:  Pulan Yu
+Email:   chinabio@gmail.com
+
 Export the SELECTED Project Table entries (protein + poses, repeated)
 to Cresset Flare, ensuring ligands are imported as LIGANDS (not proteins).
 

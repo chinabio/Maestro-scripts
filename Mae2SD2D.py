@@ -3,6 +3,9 @@
 """
 Mae2SD2D.py  -  Maestro user script  (Schrodinger 2026-1 ready)
 
+Author:  Pulan Yu
+Email:   chinabio@gmail.com
+
 Convert the SELECTED ligand / docking-pose entries in the Project Table
 to a single 2D SD file (V2000), with clean heavy-atom-only depictions
 and an optional charge-neutralization pass (aggressive or balanced).

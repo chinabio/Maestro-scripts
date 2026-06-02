@@ -3,6 +3,9 @@
 """
 Mae2Moe.py  -  Maestro user script
 
+Author:  Pulan Yu
+Email:   chinabio@gmail.com
+
 Export the SELECTED Project Table entries (protein + poses, repeated)
 to Chemical Computing Group's MOE (Molecular Operating Environment).
 

@@ -12,6 +12,8 @@ Each script adds an entry under **Maestro → Scripts → User Scripts** and pop
 up a small Qt dialog where you choose the output folder, format, and a couple of
 options. Settings are remembered between runs.
 
+**Author:** Pulan Yu (<chinabio@gmail.com>)
+
 | Script | Menu entry | What it does |
 | --- | --- | --- |
 | `Mae2Flare.py` | *MAE to Flare…* | Export selection to **Cresset Flare** (Proteins + Ligands tables, or a `.flrp` project) |
@@ -211,6 +213,10 @@ These files are user-specific and are git-ignored.
 ├── CHANGELOG.md
 └── .gitignore
 ```
+
+## Author
+
+**Pulan Yu** — <chinabio@gmail.com>
 
 ## License
 
